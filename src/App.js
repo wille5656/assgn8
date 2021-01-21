@@ -2,7 +2,7 @@ import React from 'react'
 import Table from './components/Table'
 import './App.css'
 
-
+// this is main file
 class App extends React.Component {
   constructor() {
     super()
@@ -83,7 +83,7 @@ class App extends React.Component {
         <div className="buttons-container-2">
 
         </div>
-
+        
         <Table
           numberOfRows={this.state.numRow}
           numberOfColumns={this.state.numCol}
