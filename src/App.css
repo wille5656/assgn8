@@ -1,0 +1,12 @@
+td{
+  height: 100px;
+  width: 100px;
+  border: 1px solid;
+  border-color: black;
+
+}
+
+.td-cell {
+  text-align: center;
+  align-items: center;
+}
